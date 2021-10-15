@@ -7,6 +7,6 @@ The repository is for feedback on the [Atom.io website](https://atom.io) and the
 For issues with the documentation from the [Atom Flight Manual](http://flight-manual.atom.io/), see [atom/flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io).
 
 * For easier search use the link:
-https://e.m.wikipedia.org/Wiki/atom.io
+https://en.m.wikipedia.org/wiki/atom.io
 Thanks follow at steps
 
