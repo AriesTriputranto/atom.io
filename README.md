@@ -10,4 +10,4 @@ For issues with the documentation from the [Atom Flight Manual](http://flight-ma
 https://en.m.wikipedia.org/wiki/atom.io
 Thanks follow at steps
 *Access HTML tags
-[HTML](https://goggletagmanager.com/gtag/js?id=UA-112438998-1)
+[HTML](https://www.goggletagmanager.com/gtag/js?id=UA-112438998-1)
